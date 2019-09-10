@@ -1,0 +1,78 @@
+
+
+.logo{
+	background-color: grey;
+    height: 70px;
+    width: 95%;
+    margin: auto;
+}
+
+.header{
+	background-color: grey;
+	height: 200px;
+width: 95%;
+margin: 34px;
+}
+
+
+.wrapper, .wrapper2{
+	     background-color: white;
+    overflow: hidden;
+    width: 100%;
+    margin: 34px 40px;
+
+}
+
+.nav1, .nav2, .nav3, .nav4 {
+	background-color: grey;
+	min-height: 5px;
+	width: 20%;
+	margin-right: 30px;
+	padding: 13px;
+	float: left;
+		}
+
+
+	.about{
+        margin-top: 0px;
+    background-color: grey;
+    height: 500px;
+    width: 45%;
+    float: left;
+    margin-left: 40px; }
+
+
+
+    .wrapper2{
+    	overflow: hidden;
+    	background-color: grey;
+    	margin: 0px;
+    }
+
+
+    .link1{
+     background-color: grey;
+    height: 200px;
+    width: 45%;
+    float: left;
+    margin-left: 60px;
+    }
+
+
+
+    .link2{
+    background-color: grey;
+    height: 267px;
+    width: 45%;
+    float: left;
+    margin-left: 60px;
+    margin-top: 33px;    }
+
+    .plan{
+     margin-left: 36px;
+    float: left;
+    background-color: grey;
+    height: 185px;
+    width: 95%;
+    margin-top: 40px;
+    }
